@@ -1,4 +1,4 @@
-// import Mainbody from "./components/Mainbody";
+import Mainbody from "./components/Mainbody";
 import { ToastContainer} from 'react-toastify';
 
 
@@ -22,7 +22,7 @@ const App = () => {
 
  
         
-        {/* <Mainbody/> */}
+        <Mainbody/>
         </>
     );
 };

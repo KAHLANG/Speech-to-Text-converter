@@ -1,4 +1,4 @@
-Think of this project as your digital notepad — except, instead of typing, you speak. Built on the spine of ReactJS and fueled by the browser’s own Web Speech API, this app listens to your voice and turns it into structured, editable text in real time. Whether you're jotting ideas mid-walk or capturing thoughts faster than your hands can move, this tool is designed to keep pace with your mind. At its core, this isn’t just a speech recognizer. 
+Think of this project as the digital notepad — except, instead of typing, you speak. Built on the spine of ReactJS and fueled by the browser’s own Web Speech API, this app listens to your voice and turns it into structured, editable text in real time. Whether you're jotting ideas mid-walk or capturing thoughts faster than your hands can move, this tool is designed to keep pace with your mind. At its core, this isn’t just a speech recognizer. 
 What It Offers:
 Instant Speech Recognition- Speak and see your words materialize on-screen, thanks to the Web Speech API. No need for external libraries — your browser has this power built-in.
 
